@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931038851360",
+    "project_id": "native-hackathon",
+    "storage_bucket": "native-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931038851360:android:eb4a1fa010aacddd6a2745",
+        "android_client_info": {
+          "package_name": "com.bilalhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931038851360-kk4e943i0ftq4g7rgbln9udstb4dmcoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjKA7qudJ2Pq8qJkl1bTh4HWTb3Hfk0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931038851360-kk4e943i0ftq4g7rgbln9udstb4dmcoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
